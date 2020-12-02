@@ -22,6 +22,7 @@ const Image = styled.img`
     max-width:100%;
     height:auto;
     width:28%;
+    box-shadow:0px 0px 7px 0px gray;
 `
 
 class UserCard extends React.Component {

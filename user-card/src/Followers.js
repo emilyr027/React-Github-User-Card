@@ -30,10 +30,10 @@ const Card = styled.div`
     background-color:white;
 `
 const Image = styled.img`
-max-width:100%;
-height:auto;
-width:30%;
-/* border-radius:50%; */
+    max-width:100%;
+    height:auto;
+    width:30%;
+    box-shadow:0px 0px 7px 0px gray;
 `
 
 class Followers extends React.Component {
